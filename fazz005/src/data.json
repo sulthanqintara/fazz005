@@ -1,0 +1,70 @@
+{
+  "themes": [
+    {
+      "name": "Dark",
+      "headerColor": "#2c3e50",
+      "headerTextColor": "#ffffff",
+      "detailColor": "#bdc3c7",
+      "detailTextColor": "#2c3e50"
+    },
+    {
+      "name": "Light",
+      "headerColor": "#bdc3c7",
+      "headerTextColor": "#2c3e50",
+      "detailColor": "#ffffff",
+      "detailTextColor": "#2c3e50"
+    },
+    {
+      "name": "Blue",
+      "headerColor": "#3498db",
+      "headerTextColor": "#ffffff",
+      "detailColor": "#ecf0f1",
+      "detailTextColor": "#2980b9"
+    },
+    {
+      "name": "Red",
+      "headerColor": "#e74c3c",
+      "headerTextColor": "#ffffff",
+      "detailColor": "#ecf0f1",
+      "detailTextColor": "#c0392b"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "alexander@mail.com",
+      "isMarried": false,
+      "programmingLanguages": ["Javascript", "C++", "Python"]
+    },
+    {
+      "id": 2,
+      "email": "graham@mail.com",
+      "isMarried": false,
+      "programmingLanguages": ["PHP", "Ruby"]
+    },
+    {
+      "id": 3,
+      "email": "bell@mail.com",
+      "isMarried": false,
+      "programmingLanguages": ["Go", "Javascript", "Ruby", "C#"]
+    },
+    {
+      "id": 4,
+      "email": "thomas@mail.com",
+      "isMarried": false,
+      "programmingLanguages": ["C#", "Rust", "Typescript"]
+    },
+    {
+      "id": 5,
+      "email": "alva@mail.com",
+      "isMarried": false,
+      "programmingLanguages": ["Rust", "Python"]
+    },
+    {
+      "id": 6,
+      "email": "edison@mail.com",
+      "isMarried": false,
+      "programmingLanguages": ["Ruby", "Python", "Go"]
+    }
+  ]
+}
